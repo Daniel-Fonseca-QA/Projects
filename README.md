@@ -1,3 +1,3 @@
 # Projects
 ## Hola
-Some Projects $sqrt(4)$ 
+Some Projects $x=1$ 
